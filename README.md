@@ -28,6 +28,8 @@ My Strength is in Python and Java backend with ReactJs Frontend
 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://www.slack.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="40" height="40"/> </a>
+ <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/confluence/confluence-icon.svg" alt="confluence" width="40" height="40"/> </a>
+ <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jira/jira-icon.svg" alt="jira" width="40" height="40"/> </a>
  </p>
 
 
