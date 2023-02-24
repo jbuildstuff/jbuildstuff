@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryan.</h1>
 <h3 align="center">Full-stack Engineer, currently living life in US.</h3>
 
-My Strength is in Python and Java backend with ReactJs Frontend
-
 - 👨‍💻 All of my projects are available at [https://github.com/jbuildstuff](https://github.com/jbuildstuff)
 - 📄 Know about my experiences [https://www.linkedin.com/in/ryansupp/](https://www.linkedin.com/in/ryansupp/)
 
