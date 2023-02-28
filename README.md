@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan.</h1>
-<h3 align="center">Full-stack Engineer, currently living life in US.</h3>
+<h3 align="center">Full-stack Engineer, AWS Solutions Architect</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/jbuildstuff](https://github.com/jbuildstuff)
 - 📄 Know about my experiences [https://www.linkedin.com/in/ryansupp/](https://www.linkedin.com/in/ryansupp/)
